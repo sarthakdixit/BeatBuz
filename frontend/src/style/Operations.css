@@ -1,0 +1,54 @@
+#container {
+  width: 100vw;
+  height: 100%;
+  background-color: #292b2c;
+  color: white;
+}
+
+#show_box {
+  width: 100%;
+}
+
+#show_box_name {
+  width: 100%;
+}
+
+#footer {
+  width: 100%;
+  padding-top: 70px;
+  padding-bottom: 10px;
+  background-color: #292b2c;
+  color: white;
+}
+
+#player_buttons {
+  margin-top: 10px;
+}
+
+#scroll {
+  margin: 4px, 4px;
+  padding: 4px;
+  width: 500px;
+  height: 360px;
+  border: 1px white solid;
+  border-radius: 4px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+}
+
+.inline-b {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.inline-b-item {
+  display: inline-block;
+}
+
+#show_block_list {
+  margin: 0px 2px 0px 2px;
+}
+
+#mood_genre_btn {
+  padding: 10px 70px 10px 70px;
+}

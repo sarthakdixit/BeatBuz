@@ -1,0 +1,227 @@
+[{
+  "_id": {
+    "$oid": "5fa64699c93fd66e2f679974"
+  },
+  "id": "1",
+  "name": "When I Am Gone",
+  "artist": "1",
+  "album": "Curtain Call",
+  "language": "English",
+  "genere": "Hip Hop",
+  "mood": "Sad",
+  "lyrics": "Yeah, it's my life\r\nMy own words, I guess\r\n\r\nHave you ever loved someone so much\r\nYou'd give an arm for\r\nNot the expression, no\r\nLiterally give an arm for\r\nWhen they know they're your heart\r\nAnd you know you are their armor\r\nAnd you will destroy anyone who would try to harm her\r\nBut what happens when karma\r\nTurns right around and bites you\r\nAnd everything you stand for turns on you to spite you\r\nWhat happens when you become the main source of her pain\r\n\"Daddy look what I made\"\r\n\"Dad's gotta go catch a plane\"\r\n\"Daddy where's mommy?\r\nI can't find mommy, where is she?\"\r\n\"I don't know, go play, Hailie baby, your daddy's busy\r\nDaddy's writing a song, this song ain't gon' write itself\"\r\nI give you one underdog, and you gotta swing by yourself\r\nThen turn right around in that song and tell her you love her\r\nAnd put hands on her mother who's the spittin' image of her\r\nThat's Slim Shady, yeah baby Slim Shady's crazy\r\nShady made me\r\nBut tonight, Shady's rock-a-bye baby\r\n\r\nAnd when I'm gone just carry on don't mourn\r\nRejoice every time you hear the sound of my voice, just know that\r\nI'm lookin' down on you smilin'\r\nAnd I didn't feel a thing so baby, don't feel no pain, just smile back\r\n\r\nAnd when I'm gone just carry on don't mourn\r\nRejoice every time you hear the sound of my voice, just know that\r\nI'm lookin' down on you smilin'\r\nAnd I didn't feel a thing so baby, don't feel no pain, just smile back\r\n\r\nI keep havin' this dream\r\nI'm pushin' Hailie on a swing, she keeps screamin', she don't want me to sing\r\n\"You're makin' mommy cry, why, why is mommy cryin'\"\r\n\"Baby, daddy ain't leavin' no more, daddy you're lyin'\r\nYou always say that, you always say this is the last time\r\nBut you ain't leavin' no more daddy, you're mine\"\r\nShe's pilin' boxes in front of the door tryin' to block it\r\n\"Daddy please, daddy, don't leave, daddy, no, stop it\"\r\nGoes in her pocket, pulls out a tiny necklace locket\r\nIt's got a picture, \"This will keep you safe daddy, take it with ya\"\r\nI look up, it's just me standin' in the mirror\r\nThese fuckin' walls must be talkin', 'cause man I can hear 'em\r\nThey're sayin', \"you got one more chance to do right\r\nAnd it's tonight, now go out and show 'em that you love 'em before it's too late\"\r\nAnd just as I go to walk out of my bedroom door\r\nIt turns to a stage, they're gone and the spotlight is on and I'm singin'\r\n\r\nAnd when I'm gone just carry on don't mourn\r\nRejoice every time you hear the sound of my voice, just know that\r\nI'm lookin' down on you smilin'\r\nAnd I didn't feel a thing so baby, don't feel no pain, just smile back\r\n\r\nAnd when I'm gone just carry on don't mourn\r\nRejoice every time you hear the sound of my voice, just know that\r\nI'm lookin' down on you smilin'\r\nAnd I didn't feel a thing so baby, don't feel no pain, just smile back\r\n\r\nSixty thousand people all jumpin' out their seat\r\nThe curtain closes, they're throwin' roses at my feet\r\nI take a bow, and thank you all for comin' out\r\nThey're screamin' so loud, I take one last look at the crowd\r\nI glance down, I don't believe what I'm seein'\r\n\"Daddy, its me, help mommy, her wrists are bleedin'\"\r\nBut baby we're in Sweden\r\nHow did you get to Sweden?\r\n\"I followed you daddy\r\nYou told me that you weren't leavin'\r\nYou lied to me dad, and now you made mommy sad\r\nAnd I bought you this coin, it says number one dad\r\nThat's all I wanted, I just want to give you this coin\"\r\n\"I get the point, fine, me and mommy are goin'\"\r\n\"But baby wait, it's too late dad, you made your choice\r\nNow go out there and show 'em that you love 'em more than us\r\nThat's what they want\r\nThey want you, Marshall\r\nThey keep screamin' your name\r\nIt's no wonder you can't go to sleep\r\nJust take another pill, yeah I bet you you will!\r\nYou rap about it, yeah word, kid keep it real\"\r\nI hear a applause, all this time I couldn't see\r\nHow could it be, that the curtain is closin' on me\r\nI turn around, find a gun on the ground\r\nCock it, put it to my brain, scream \"die Shady!\" And pop it\r\nThe sky darkens, my life flashes\r\nThe plane that I was supposed to be on, crashes, and burns to ashes\r\nThat's when I wake up\r\nAlarm clock's ringing, there's birds singin'\r\nIt's spring and Hailie's outside swingin'\r\nI walk right up to Kim and kiss her tell her I miss her\r\nHailie just smiles and winks at her little sister almost as if to say\r\n\r\nAnd when I'm gone just carry on don't mourn\r\nRejoice every time you hear the sound of my voice, just know that\r\nI'm lookin' down on you smilin'\r\nAnd I didn't feel a thing so baby, don't feel no pain, just smile back\r\n\r\nAnd when I'm gone just carry on don't mourn\r\nRejoice every time you hear the sound of my voice, just know that\r\nI'm lookin' down on you smilin'\r\nAnd I didn't feel a thing so baby, don't feel no pain, just smile back",
+  "video": "/static/songs/1/video.mp4",
+  "audio": "/static/songs/1/audio.mp3",
+  "release_date": "2005-12-26",
+  "poster": "/static/songs/1/poster.jpg",
+  "artist_id": "1",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa64efbcfd1c0bf7384385b"
+  },
+  "id": "2",
+  "name": "Lose Yourself",
+  "artist": "1",
+  "album": "8 Mile",
+  "language": "English",
+  "genere": "Hip Hop",
+  "mood": "Energy Booster",
+  "lyrics": "Look\r\nIf you had\r\nOne shot\r\nOr one opportunity\r\nTo seize everything you ever wanted\r\nIn one moment\r\nWould you capture it\r\nOr just let it slip?\r\nYo\r\nHis palms are sweaty, knees weak, arms are heavy\r\nThere's vomit on his sweater already, mom's spaghetti\r\nHe's nervous, but on the surface he looks calm and ready\r\nTo drop bombs, but he keeps on forgettin'\r\nWhat he wrote down, the whole crowd goes so loud\r\nHe opens his mouth, but the words won't come out\r\nHe's chokin', how, everybody's jokin' now\r\nThe clocks run out, times up, over, blaow\r\nSnap back to reality, ope there goes gravity\r\nOpe, there goes Rabbit, he choked\r\nHe's so mad, but he won't give up that easy? No\r\nHe won't have it, he knows his whole back's to these ropes\r\nIt don't matter, he's dope, he knows that, but he's broke\r\nHe's so stagnant, he knows, when he goes back to this mobile home, that's when it's\r\nBack to the lab again, yo, this whole rhapsody\r\nBetter go capture this moment and hope it don't pass him\r\nYou better lose yourself in the music, the moment\r\nYou own it, you better never let it go\r\nYou only get one shot, do not miss your chance to blow\r\nThis opportunity comes once in a lifetime\r\nYou better lose yourself in the music, the moment\r\nYou own it, you better never let it go\r\nYou only get one shot, do not miss your chance to blow\r\nThis opportunity comes once in a lifetime\r\nYou better\r\nHis soul's escaping, through this hole that is gaping\r\nThis world is mine for the taking\r\nMake me king, as we move toward a New World Order\r\nA normal life is borin', but super stardom's close to post mortem\r\nIt only grows harder, only grows hotter\r\nHe blows, it's all over, these hoes is all on him\r\nCoast to coast shows, he's known as the Globetrotter\r\nLonely roads, God only knows, he's grown farther from home, he's no father\r\nHe goes home and barely knows his own daughter\r\nBut hold your nose 'cause here goes the cold water\r\nThese hoes don't want him no mo', he's cold product\r\nThey moved on to the next schmo who flows, he nose dove and sold nada\r\nSo the soap opera is told and unfolds, I suppose it's old partna, but the beat goes on\r\nDa-da-dum, da-dum, da-da\r\nYou better lose yourself in the music, the moment\r\nYou own it, you better never let it go\r\nYou only get one shot, do not miss your chance to blow\r\nThis opportunity comes once in a lifetime\r\nYou better lose yourself in the music, the moment\r\nYou own it, you better never let it go\r\nYou only get one shot, do not miss your chance to blow\r\nThis opportunity comes once in a lifetime\r\nYou better\r\nNo more games, I'ma change what you call rage\r\nTear this motherfuckin' roof off like two dogs caged\r\nI was playin' in the beginnin', the mood all changed\r\nI been chewed up and spit out and booed off stage\r\nBut I kept rhymin' and stepped right in the next cypher\r\nBest believe somebody's payin' the Pied Piper\r\nAll the pain inside amplified by the\r\nFact that I can't get by with my nine to\r\nFive and I can't provide the right type of\r\nLife for my family 'cause man, these goddamn food stamps don't buy diapers\r\nAnd its no movie, there's no Mekhi Phifer\r\nThis is my life and these times are so hard\r\nAnd it's getting even harder tryna feed and water my seed, plus\r\nTeeter totter, caught up between bein' a father and a prima donna\r\nBaby mama drama, screamin' on her, too much\r\nFor me to wanna stay in one spot, another day of monotony's\r\nGotten me to the point, I'm like a snail I've got\r\nTo formulate a plot or end up in jail or shot\r\nSuccess is my only motherfuckin' option, failure's not\r\nMom, I love you, but this trailer's got to go, I cannot grow old in Salem's Lot\r\nSo here I go, is my shot\r\nFeet, fail me not, this may be the only opportunity that I got\r\nYou better lose yourself in the music, the moment\r\nYou own it, you better never let it go\r\nYou only get one shot, do not miss your chance to blow\r\nThis opportunity comes once in a lifetime\r\nYou better lose yourself in the music, the moment\r\nYou own it, you better never let it go\r\nYou only get one shot, do not miss your chance to blow\r\nThis opportunity comes once in a lifetime\r\nYou better\r\nYou can do anything you set your mind to, man",
+  "video": "/static/songs/2/video.mp4",
+  "audio": "/static/songs/2/audio.mp3",
+  "poster": "/static/songs/2/poster.jpg",
+  "release_date": "2002-10-28",
+  "artist_id": "1",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa6a402849ac9fa8b766b92"
+  },
+  "id": "3",
+  "name": "War Pigs",
+  "artist": "Black Sabbath",
+  "album": "Paranoid",
+  "language": "English",
+  "genere": "Metal",
+  "mood": "Energy Booster",
+  "lyrics": "Generals gathered in their masses\r\nJust like witches at black masses\r\nEvil minds that plot destruction\r\nSorcerer of death's construction\r\nIn the fields, the bodies burning\r\nAs the war machine keeps turning\r\nDeath and hatred to mankind\r\nPoisoning their brainwashed minds\r\nOh lord, yeah!\r\nPoliticians hide themselves away\r\nThey only started the war\r\nWhy should they go out to fight?\r\nThey leave that role to the poor, yeah\r\nTime will tell on their power minds\r\nMaking war just for fun\r\nTreating people just like pawns in chess\r\nWait till their judgement day comes, yeah!\r\nNow in darkness, world stops turning\r\nAshes where their bodies burning\r\nNo more war pigs have the power\r\nHand of God has struck the hour\r\nDay of judgement, God is calling\r\nOn their knees, the war pigs crawling\r\nBegging mercy for their sins\r\nSatan laughing, spreads his wings\r\nOh lord, yeah!",
+  "video": "/static/songs/3/video.mp4",
+  "audio": "/static/songs/3/audio.mp3",
+  "poster": "/static/songs/3/poster.jpg",
+  "release_date": "1970-09-18",
+  "artist_id": "3",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa6a771849ac9fa8b766b95"
+  },
+  "id": "4",
+  "name": "Perfect",
+  "artist": "Ed Sheeran",
+  "album": "Divide",
+  "language": "English",
+  "genere": "Pop",
+  "mood": "Romance",
+  "lyrics": "I found a love for me\r\nDarling, just dive right in\r\nAnd follow my lead\r\nWell, I found a girl, beautiful and sweet\r\nI never knew you were the someone waiting for me\r\n'Cause we were just kids when we fell in love\r\nNot knowing what it was\r\nI will not give you up this time\r\nDarling, just kiss me slow, your heart is all I own\r\nAnd in your eyes, you're holding mine\r\nBaby, I'm dancing in the dark with you between my arms\r\nBarefoot on the grass, we're listenin' to our favorite song\r\nWhen you said you looked a mess, I whispered underneath my breath\r\nBut you heard it, darling, you look perfect tonight\r\nWell, I found a woman, stronger than anyone I know\r\nShe shares my dreams, I hope that someday I'll share her home\r\nI found a love, to carry more than just my secrets\r\nTo carry love, to carry children of our own\r\nWe are still kids, but we're so in love\r\nFightin' against all odds\r\nI know we'll be alright this time\r\nDarling, just hold my hand\r\nBe my girl, I'll be your man\r\nI see my future in your eyes\r\nBaby, I'm dancing in the dark, with you between my arms\r\nBarefoot on the grass, listenin' to our favorite song\r\nWhen I saw you in that dress, looking so beautiful\r\nI don't deserve this, darling, you look perfect tonight\r\nOh, no, no\r\nMm\r\nBaby, I'm dancing in the dark, with you between my arms\r\nBarefoot on the grass, we're listenin' to our favorite song\r\nI have faith in what I see\r\nNow I know I have met an angel in person\r\nAnd she looks perfect\r\nNo, I don't deserve this\r\nYou look perfect tonight",
+  "video": "/static/songs/4/video.mp4",
+  "audio": "/static/songs/4/audio.mp3",
+  "poster": "/static/songs/4/poster.jpg",
+  "release_date": "2017-09-26",
+  "artist_id": "2",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa6ab88a332eee1f239f05b"
+  },
+  "id": "5",
+  "name": "Hello",
+  "artist": "Adele",
+  "album": "25",
+  "language": "English",
+  "genere": "Pop",
+  "mood": "Sad",
+  "lyrics": "Hello, it's me\r\nI was wondering if after all these years you'd like to meet\r\nTo go over everything\r\nThey say that time's supposed to heal ya\r\nBut I ain't done much healing\r\nHello, can you hear me?\r\nI'm in California dreaming about who we used to be\r\nWhen we were younger and free\r\nI've forgotten how it felt before the world fell at our feet\r\nThere's such a difference between us\r\nAnd a million miles\r\nHello from the other side\r\nI must've called a thousand times\r\nTo tell you I'm sorry\r\nFor everything that I've done\r\nBut when I call you never\r\nSeem to be home\r\nHello from the outside\r\nAt least I can say that I've tried\r\nTo tell you I'm sorry\r\nFor breaking your heart\r\nBut it don't matter, it clearly\r\nDoesn't tear you apart anymore\r\nHello, how are you?\r\nIt's so typical of me to talk about myself, I'm sorry\r\nI hope that you're well\r\nDid you ever make it out of that town\r\nWhere nothing ever happened?\r\nIt's no secret\r\nThat the both of us\r\nAre running out of time\r\nSo hello from the other side (other side)\r\nI must've called a thousand times (thousand times)\r\nTo tell you I'm sorry\r\nFor everything that I've done\r\nBut when I call you never\r\nSeem to be home\r\nHello from the outside (outside)\r\nAt least I can say that I've tried (I've tried)\r\nTo tell you I'm sorry\r\nFor breaking your heart\r\nBut it don't matter, it clearly\r\nDoesn't tear you apart anymore\r\nOoooohh, anymore\r\nOoooohh, anymore\r\nOoooohh, anymore\r\nAnymore\r\nHello from the other side (other side)\r\nI must've called a thousand times (thousand times)\r\nTo tell you I'm sorry\r\nFor everything that I've done\r\nBut when I call you never\r\nSeem to be home\r\nHello from the outside (outside)\r\nAt least I can say that I've tried (I've tried)\r\nTo tell you I'm sorry\r\nFor breaking your heart\r\nBut it don't matter, it clearly\r\nDoesn't tear you apart anymore",
+  "video": "/static/songs/5/video.mp4",
+  "audio": "/static/songs/5/audio.mp3",
+  "poster": "/static/songs/5/poster.jpg",
+  "release_date": "2015-10-23",
+  "artist_id": "4",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa753c3ebd7ed5ae1d5985a"
+  },
+  "id": "6",
+  "name": "Godzilla",
+  "artist_id": "1",
+  "album": "Music To Be Murdered By",
+  "language": "English",
+  "genere": "Hip Hop",
+  "mood": "Party",
+  "lyrics": "I can swallow a bottle of alcohol and I'll feel like Godzilla\r\nBetter hit the deck like the card dealer\r\nMy whole squad's in here, walking around the party\r\nA cross between a zombie apocalypse and big Bobby \"The\r\nBrain\" Heenan which is probably the\r\nSame reason I wrestle with mania\r\nShady's in this bitch, I'm posse'd up\r\nConsider it to cross me a costly mistake\r\nIf they sleepin' on me, the hoes better get insomnia\r\nAdhd, Hydroxycut\r\nPass the Courvoisi' (ayy, ayy)\r\nIn AA with an AK, melee, finna set it like a playdate\r\nBetter vacate, retreat like a vacay, mayday (ayy)\r\nThis beat is cray-cray, Ray J, H-A-H-A-H-A\r\nLaughing all the way to the bank, I spray flames\r\nThey cannot tame or placate the\r\nMonster (ayy)\r\nYou get in my way, I'ma feed you to the monster (yeah)\r\nI'm normal during the day, but at night, turn to a monster (yeah)\r\nWhen the moon shines like Ice Road Truckers\r\nI look like a villain outta those blockbusters\r\nGodzilla, fire spitter, monster\r\nBlood on the dance floor, and on the Louis V carpet\r\nFire, Godzilla, fire, monster\r\nBlood on the dance floor, and on the Louis V carpet\r\nI'm just a product of Slick Rick and Onyx, told 'em, \"Lick the balls\"\r\nHad 'em just appalled at so many things that pissed 'em off\r\nIt's impossible to list 'em all\r\nAnd in the midst of all this\r\nI'm in a mental hospital with a crystal ball\r\nTryna see, will I still be like this tomorrow?\r\nRisperdal, voices whisper\r\nMy fist is balled back up against the wall, pencil drawn\r\nThis is just the song to go ballistic on\r\nYou just pulled a pistol on the guy with the missile launcher\r\nI'm just a Loch Ness, the mythological\r\nQuick to tell a bitch screw off like a fifth of Vodka\r\nWhen you twist the top of the bottle, I'm a\r\nMonster (ayy)\r\nYou get in my way, I'ma feed you to the monster (yeah)\r\nI'm normal during the day, but at night, turn to a monster (yeah)\r\nWhen the moon shines like Ice Road Truckers\r\nI look like a villain outta those blockbusters\r\nGodzilla, fire spitter, monster\r\nBlood on the dance floor, and on the Louis V carpet\r\nFire, Godzilla, fire, monster\r\nBlood on the dance floor, and on the Louis V carpet\r\nIf you never gave a damn, raise your hand\r\n'Cause I'm about to set trip, vacation plans\r\nI'm on point like my index is, so all you will ever get is\r\nThe motherfuckin' finger (finger), prostate exam ('xam)\r\nHow can I have all these fans and perspire?\r\nLike a liar's pants, I'm on fire\r\nAnd I got no plans to retire and I'm still the man you admire\r\nThese chicks are spazzin' out, I only get more handsome and flier\r\nI got 'em passin' out like what you do when you hand someone flyers\r\nAnd what goes around comes around just like the blades on a chainsaw\r\n'Cause I caught the flap of my dollar stack right off the bat like a baseball\r\nLike Kid Ink, bitch, I got them racks with so much ease that they call me Diddy\r\n'Cause I make bands and I call getting cheese a cakewalk (cheesecake) yeah\r\nBitch, I'm a player, I'm too motherfuckin' stingy for Cher\r\nWon't even lend you an ear, ain't even pretending to care\r\nBut I tell a bitch I'll marry her if she'll bury her\r\nFace on my genital area, the original Richard Ramirez\r\nChristian Rivera, 'cause my lyrics never sit well\r\nSo they wanna give me the chair\r\nLike a paraplegic, and it's scary, call it Harry Caray\r\n'Cause every Tom and Dick and Harry carry a Merriam motherfuckin' dictionary\r\nGot 'em swearing up and down, they can't spit, this shit's hilarious\r\nIt's time to put these bitches in the obituary column\r\nWe wouldn't see eye to eye with a staring problem\r\nGet the shaft like a steering column (monster)\r\nTrigger happy, pack heat, but it's black ink\r\nEvil half of the Bad Meets Evil\r\nThat means take a back seat\r\nTake it back to Fat Petes with a maxi, single\r\nLook at my rap sheet, what attracts these people\r\nIs my gangster, bitch, like Apache with a catchy jingle\r\nI stack chips, you barely got a half-eaten Cheeto\r\nFill 'em with the venom and eliminate 'em\r\nOther words, I Minute Maid 'em\r\nI don't wanna hurt 'em, but I did 'em in a fit of rage\r\nI'm murderin' again, nobody will evade him\r\nFinna kill 'em and dump all the fuckin' bodies in the lake\r\nObliterating everything, incinerate and renegade 'em\r\nAnd I make anybody who want it with the pen afraid\r\nBut don't nobody want it, but they're gonna get it anyway\r\n'Cause I'm beginnin' to feel like I'm mentally ill\r\nI'm Atilla, kill or be killed, I'm a killer bee, the vanilla gorilla\r\nYou're bringin' the killer within me out of me\r\nYou don't want to be the enemy of the demon who went in me\r\nOr being the recievin' end of me, what stupidity it'd be\r\nEvery bit of me is the epitome of a spitter\r\nWhen I'm in the vicinity, motherfucker, you better duck\r\nOr you finna be dead the minute you run into me\r\nA hunnid percent of you is a fifth of a percent of me\r\nI'm 'bout to fuckin' finish you bitch, I'm unfadable\r\nYou wanna battle, I'm available, I'm blowin' up like an inflatable\r\nI'm undebatable, I'm unavoidable, I'm unevadable\r\nI'm on the toilet bowl, I got a trailer full of money and I'm paid in full\r\nI'm not afraid to pull the\r\nMan, stop\r\nLook what I'm plannin', haha",
+  "video": "/static/songs/6/video.mp4",
+  "audio": "/static/songs/6/audio.mp3",
+  "poster": "/static/songs/6/poster.jpg",
+  "release_date": "2020-01-31",
+  "views": "1"
+},{
+  "_id": {
+    "$oid": "5fa7567febd7ed5ae1d5985c"
+  },
+  "id": "7",
+  "name": "Darkness",
+  "artist_id": "1",
+  "album": "Music To Be Murdered By",
+  "language": "English",
+  "genere": "Hip Hop",
+  "mood": "Sad",
+  "lyrics": "I don't wanna be alone, I don't wanna be\r\nI don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness anymore\r\n(Hello darkness, my old friend)\r\nHere I am, alone again\r\nCan't get out of this hole I'm in\r\nIt's like the walls are closin' in\r\nYou can't help me, no one can\r\nI can feel these curtains closin'\r\nI go to open 'em\r\nBut something pulls 'em closed again\r\n(Hello darkness, my old friend)\r\nFeels like I'm loathing in Las Vegas\r\nHaven't got the vaguest why I'm so lost\r\nBut I'd make you this small wager\r\nIf I bet you I'll be in tomorrow's paper\r\nWho would the odds favor?\r\n(Hello darkness, my old friend)\r\nI'm so much like my father, you would think that I knew him\r\nI keep pacin' this room, Valium\r\nThen chase it with booze, one little taste it'll do\r\nMaybe I'll take it and snooze, then tear up the stage in a few\r\n(Hello darkness, my old friend)\r\nFuck the Colt 45, I'ma need somethin' stronger\r\nIf I pop any caps, it better be off of vodka\r\nRound after round after round, I'm gettin' loaded\r\nThat's a lot of shots, huh? (Double entendre)\r\n(Hello darkness, my old friend)\r\nAnd I don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness anymore\r\n(Hello darkness, my old friend)\r\nNow I'm starin' at the room service menu off a Benzo\r\nI can hear the music continue to crescendo\r\nI can see the whole fuckin' venue from my window\r\nThat's when you know you're schizo\r\n(Hello darkness, my old friend)\r\n'Cause I keep peakin' out the curtain from the hotel\r\nThe music is so loud, but it's almost as though\r\nI don't hear no sound, I should get ready for the show now\r\nWait is this the whole crowd? I thought this shit was sold out\r\n(Hello darkness, my old friend)\r\nBut it's only the opening act, it's early, don't overreact\r\nThen something told me relax and just hope for the show to be packed\r\nDon't wanna hit the stage before they fill each row to the max\r\n'Cause that'd be totally wack, you can't murder a show nobody's at\r\nBut what if nobody shows?\r\nPanic mode 'bout to snap and go motherfuckin' wacko at any second\r\n'Bout to cancel the show, just as fans below rush the entrance\r\nPlan is a go to wreck shit, cameras in all directions\r\nThe press is 'bout to go apeshit, bananas on all the networks\r\nCommando with extra clips, I got ammo for all the hecklers\r\nI'm armed to the teeth, 'nother Valium fall off the bed\r\nHit the ground and crawl to the dresser\r\nAlcohol on my breath as I reach for the Scope\r\nI'm blackin' out, I'm all out of meds\r\nWith them benzodiazepines gone\r\nNow it's just magazines sprawled out on the floor\r\nFuck the media, I'm goin' all out, this is war\r\n(Hello darkness, my old friend)\r\nAnd I don't wanna be alone in the darkness (yeah)\r\nI don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness anymore\r\nPeople start to show up, time to start the show up\r\nIt's 10:05 PM and the curtain starts to go up\r\nAnd I'm already sweatin' but I'm locked and loaded\r\nFor rapid fire spittin' for all the concert-goers\r\nScopes for sniper vision, surprise from out of nowhere\r\nAs I slide the clip in from inside the hotel\r\nLeanin' out the window, going Kaiser Soze\r\nFinger on the trigger, but I'm a licensed owner\r\nWith no prior convictions, so law says sky's the limit\r\nSo my supplies infinite, strapped like I'm a soldier\r\nGot 'em hopping over walls and climbing fences\r\nSome of 'em John Travolta, stayin' alive by inches\r\n(Hello darkness, my old friend)\r\nCops are knockin', oh, fuck, thought I blocked the entrance\r\nGuess show time is over, no suicide note\r\nJust a note for target distance\r\nBut if you'd like to know the reason why I did this\r\nYou'll never find a motive, truth is I have no idea\r\nI am just as stumped, no signs of mental illness\r\nJust tryin' to show ya the reason why we're so fucked\r\n'Cause by the time it's over, won't make the slightest difference\r\n(Hello darkness, my old friend)\r\nAnd I don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness\r\nI don't wanna be alone in the darkness anymore\r\n(Hello darkness, my old friend)\r\nYeah, we do have some breaking news from the Associated Press right now\r\nJust gonna bring that up, because we are hearing\r\nWe have told you that the shooter is dead\r\nAnd we have just learned that police are saying that the Las Vegas shooter killed himself\r\nThat is the bartender there at Mandalay Bay\r\nAnd I believe we're going to hear more from here\r\nYeah, we just wanted to share that with you\r\nYou can see behind me here, this is what he looks like\r\nNow, we did just tell you that police just earlier\r\nMetro was telling us that he killed himself inside the hotel room\r\nGood morning, as we come to you on the air\r\nWe bring you breaking news, a school shooting (crushing news)\r\nAnother school shooting (eleven people dead)\r\nReports of a number of fatalities and this time in Santa Fe, Texas\r\nThat is just outside Galveston (that no one saw coming)\r\nA mass shooting a Southern California school\r\nWe are following breaking news this morning\r\nAnother deadly school shooting\r\nThis one in Santa Fe, Texas, that's just outside Houston\r\nTwenty-six killed and twenty other wounded (Houston affiliate is reporting)\r\nAt least nine people have been killed (somber words, making it the deadliest shooting in Texas history)\r\nFive people dead\r\nThe attacker opening fire outside the church during a morning worship session\r\nHe unloaded the chaotic and terror, making his way inside\r\nThis, a deadly shooting at a food festival in Northern California\r\nThree people, so far, dead\r\nBreaking news (fifteen wounded)\r\nA deadly shooting at a newspaper office in Annapolis (a gunman opened fire)\r\nNewly released surveillance video shows the moments leading up to a mass shooting\r\nIn Dayton, Ohio\r\nAuthorities say the shooter",
+  "video": "/static/songs/7/video.mp4",
+  "audio": "/static/songs/7/audio.mp3",
+  "poster": "/static/songs/7/poster.jpg",
+  "release_date": "2020-01-17",
+  "views": "1"
+},{
+  "_id": {
+    "$oid": "5fa758efebd7ed5ae1d5985e"
+  },
+  "id": "8",
+  "name": "Shape Of You",
+  "artist_id": "2",
+  "album": "Divide",
+  "language": "English",
+  "genere": "Pop",
+  "mood": "Romance",
+  "lyrics": "The club isn't the best place to find a lover\r\nSo the bar is where I go\r\nMe and my friends at the table doing shots\r\nDrinking fast and then we talk slow\r\nCome over and start up a conversation with just me\r\nAnd trust me I'll give it a chance now\r\nTake my hand, stop, put Van the Man on the jukebox\r\nAnd then we start to dance, and now I'm singing like\r\nGirl, you know I want your love\r\nYour love was handmade for somebody like me\r\nCome on now, follow my lead\r\nI may be crazy, don't mind me\r\nSay, boy, let's not talk too much\r\nGrab on my waist and put that body on me\r\nCome on now, follow my lead\r\nCome, come on now, follow my lead\r\nI'm in love with the shape of you\r\nWe push and pull like a magnet do\r\nAlthough my heart is falling too\r\nI'm in love with your body\r\nAnd last night you were in my room\r\nAnd now my bedsheets smell like you\r\nEvery day discovering something brand new\r\nI'm in love with your body\r\nOh—I—oh—I—oh—I—oh—I\r\nI'm in love with your body\r\nOh—I—oh—I—oh—I—oh—I\r\nI'm in love with your body\r\nOh—I—oh—I—oh—I—oh—I\r\nI'm in love with your body\r\nEvery day discovering something brand new\r\nI'm in love with the shape of you\r\nOne week in we let the story begin\r\nWe're going out on our first date\r\nYou and me are thrifty, so go all you can eat\r\nFill up your bag and I fill up a plate\r\nWe talk for hours and hours about the sweet and the sour\r\nAnd how your family is doing okay\r\nLeave and get in a taxi, then kiss in the backseat\r\nTell the driver make the radio play, and I'm singing like\r\nGirl, you know I want your love\r\nYour love was handmade for somebody like me\r\nCome on now, follow my lead\r\nI may be crazy, don't mind me\r\nSay, boy, let's not talk too much\r\nGrab on my waist and put that body on me\r\nCome on now, follow my lead\r\nCome, come on now, follow my lead\r\nI'm in love with the shape of you\r\nWe push and pull like a magnet do\r\nAlthough my heart is falling too\r\nI'm in love with your body\r\nAnd last night you were in my room\r\nAnd now my bedsheets smell like you\r\nEvery day discovering something brand new\r\nI'm in love with your body\r\nOh—I—oh—I—oh—I—oh—I\r\nI'm in love with your body\r\nOh—I—oh—I—oh—I—oh—I\r\nI'm in love with your body\r\nOh—I—oh—I—oh—I—oh—I\r\nI'm in love with your body\r\nEvery day discovering something brand new\r\nI'm in love with the shape of you\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nI'm in love with the shape of you\r\nWe push and pull like a magnet do\r\nAlthough my heart is falling too\r\nI'm in love with your body\r\nLast night you were in my room\r\nAnd now my bedsheets smell like you\r\nEvery day discovering something brand new\r\nI'm in love with your body\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nI'm in love with your body\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nI'm in love with your body\r\nCome on, be my baby, come on\r\nCome on, be my baby, come on\r\nI'm in love with your body\r\nEvery day discovering something brand new\r\nI'm in love with the shape of you",
+  "video": "/static/songs/8/video.mp4",
+  "audio": "/static/songs/8/audio.mp3",
+  "poster": "/static/songs/8/poster.jpg",
+  "release_date": "2017-01-06",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa75badebd7ed5ae1d59860"
+  },
+  "id": "9",
+  "name": "Iron Man",
+  "artist_id": "3",
+  "album": "Paranoid",
+  "language": "English",
+  "genere": "Metal",
+  "mood": "Romance",
+  "lyrics": "\"Iron Man\"\r\n\r\nI am Iron Man\r\n\r\nHas he lost his mind?\r\nCan he see or is he blind?\r\nCan he walk at all\r\nOr if he moves will he fall?\r\n\r\nIs he alive or dead?\r\nHas he thoughts within his head?\r\nWe'll just pass him there\r\nWhy should we even care?\r\n\r\nHe was turned to steel\r\nIn the great magnetic field\r\nWhen he traveled time\r\nFor the future of mankind\r\n\r\nNobody wants him\r\nHe just stares at the world\r\nPlanning his vengeance\r\nThat he will soon unfurl\r\n\r\nNow the time is here\r\nFor Iron Man to spread fear\r\nVengeance from the grave\r\nKills the people he once saved\r\n\r\nNobody wants him\r\nThey just turn their heads\r\nNobody helps him\r\nNow he has his revenge\r\n\r\nHeavy boots of lead\r\nFill his victims full of dread\r\nRunning as fast as they can\r\nIron Man lives again!",
+  "video": "/static/songs/9/video.mp4",
+  "audio": "/static/songs/9/audio.mp3",
+  "poster": "/static/songs/9/poster.jpg",
+  "release_date": "1970-09-18",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fa75da3ebd7ed5ae1d59864"
+  },
+  "id": "10",
+  "name": "It's My Life",
+  "artist_id": "5",
+  "album": "Crush",
+  "language": "English",
+  "genere": "Rock",
+  "mood": "Energy Booster",
+  "lyrics": "This ain't a song for the broken-hearted\r\nNo silent prayer for the faith-departed\r\nI ain't gonna be just a face in the crowd\r\nYou're gonna hear my voice\r\nWhen I shout it out loud\r\nIt's my life\r\nIt's now or never\r\nI ain't gonna live forever\r\nI just want to live while I'm alive\r\n(It's my life)\r\nMy heart is like an open highway\r\nLike Frankie said\r\nI did it my way\r\nI just want to live while I'm alive\r\nIt's my life\r\nThis is for the ones who stood their ground\r\nIt's for Tommy and Gina who never backed down\r\nTomorrow's getting harder, make no mistake\r\nLuck ain't enough\r\nYou've got to make your own breaks\r\nIt's my life\r\nAnd it's now or never\r\nI ain't gonna live forever\r\nI just want to live while I'm alive\r\n(It's my life)\r\nMy heart is like an open highway\r\nLike Frankie said\r\nI did it my way\r\nI just want to live while I'm alive\r\nIt's my life\r\nYou better stand tall when they're calling you out\r\nDon't bend, don't break, baby, don't back down\r\nIt's my life\r\nAnd it's now or never\r\nI ain't gonna live forever\r\nI just want to live while I'm alive\r\n(It's my life)\r\nMy heart is like an open highway\r\nLike Frankie said\r\nI did it my way\r\nI just want to live while I'm alive\r\n(It's my life)",
+  "video": "/static/songs/10/video.mp4",
+  "audio": "/static/songs/10/audio.mp3",
+  "poster": "/static/songs/10/poster.jpg",
+  "release_date": "2000-05-23",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5facd795e8416ef3e8e042d8"
+  },
+  "id": "11",
+  "name": "Not Afraid",
+  "artist_id": "1",
+  "album": "Recovery",
+  "language": "English",
+  "genere": "Hip Hop",
+  "mood": "Energy Booster",
+  "lyrics": "I'm not afraid, I'm not afraid (yeah)\r\nTo take a stand, it's been a ride\r\nEverybody, I guess I had to\r\nGo to that place\r\nTo get to this one\r\nNow some of you\r\nMight still be in that place\r\nIf you're tryin' to get out\r\nJust follow me\r\nI'll get you there\r\nYou can try and read my lyrics off of this paper before I lay 'em\r\nBut you won't take the sting out these words before I say 'em\r\n'Cause ain't no way I'm a let you stop me from causin' mayhem\r\nWhen I say I'm a do somethin' I do it\r\nI don't give a damn what you think\r\nI'm doin' this for me, so fuck the world, feed it beans\r\nIt's gassed up, if it thinks it's stoppin' me\r\nI'mma be what I set out to be, without a doubt undoubtedly\r\nAnd all those who look down on me, I'm tearin' down your balcony\r\nNo if, ands or buts, don't try to ask him why or how can he\r\nFrom \"Infinite\" down to the last \"Relapse\" album he's still shittin'\r\nWhether he's on salary, paid hourly, until he bows out or he shits his bowels out of him\r\nWhichever comes first, for better or worse\r\nHe's married to the game, like a fuck you for Christmas\r\nHis gift is a curse, forget the Earth, he's got the urge to pull his dick from the dirt\r\nAnd fuck the whole universe\r\nI'm not afraid (I'm not afraid)\r\nTo take a stand (to take a stand)\r\nEverybody (everybody)\r\nCome take my hand come (come take my hand)\r\nWe'll walk this road together, through the storm\r\nWhatever weather, cold or warm\r\nJust letting you know that, you're not alone\r\nHolla if you feel like you've been down the same road\r\nOkay quit playin' with the scissors and shit, and cut the crap\r\nI shouldn't have to rhyme these words in the rhythm for you to know it's a rap\r\nYou said you was king\r\nYou lied through your teeth, for that fuck your feelings\r\nInstead of gettin' crowned you're gettin' capped, and to the fans\r\nI'll never let you down again, I'm back\r\nI promise to never go back on that promise\r\nIn fact, let's be honest, that last \"Relapse\" CD was eh\r\nPerhaps I ran them accents into the ground\r\nRelax, I ain't goin' back to that now\r\nAll I'm tryin' to say is get back, click-clack, blow 'cause I ain't playin' around\r\nIt's a game called circle and I don't know how\r\nI'm way too up to back down\r\nBut I think I'm still tryin' to figure this crap out\r\nThought I had it mapped out but I guess I didn't, this fuckin' black cloud\r\nStill follows me around but it's time to exercise these demons\r\nThese muh'fuckers are doin' jumpin' jacks now\r\nI'm not afraid (I'm not afraid)\r\nTo take a stand (to take a stand)\r\nEverybody (everybody)\r\nCome take my hand come (come take my hand)\r\nWe'll walk this road together, through the storm\r\nWhatever weather, cold or warm\r\nJust letting you know that, you're not alone\r\nHolla if you feel like you've been down the same road\r\nAnd I just can't keep living this way\r\nSo starting today\r\nI'm breaking out of this cage\r\nI'm standing up, I'mma face my demons\r\nI'm manning up, I'mma hold my ground\r\nI've had enough, now I'm so fed up\r\nTime to put my life back together right now (now)\r\nIt was my decision to get clean, I did it for me\r\nAdmittedly, I probably did it subliminally\r\nFor you, so I could come back a brand new me, you helped see me through\r\nAnd don't realize what you did, believe me you\r\nI been through the ringer, but they could do little to the middle finger\r\nI think I got a tear in my eye, I feel like the king of\r\nMy world, haters can make like bees with no stingers and drop dead\r\nNo more bee flingers, no more drama from now on\r\nI promise to focus solely on handlin' my responsibilities as a father\r\nSo I solemnly swear to always treat this roof, like my daughters and raise it\r\nYou couldn't lift a single shingle on it, 'cause the way I feel\r\nI'm strong enough to go to the club or the corner pub\r\nAnd lift the whole liquor counter up 'cause I'm raising the bar\r\nI'd shoot for the moon but I'm too busy gazin' at stars, I feel amazing and I'm not\r\nI'm not afraid (I'm not afraid)\r\nTo take a stand (to take a stand)\r\nEverybody (Everybody)\r\nCome take my hand come (Come take my hand)\r\nWe'll walk this road together, through the storm\r\nWhatever weather, cold or warm\r\nJust letting you know that, you're not alone\r\nHolla if you feel like you've been down the same road",
+  "video": "/static/songs/11/video.mp4",
+  "audio": "/static/songs/11/audio.mp3",
+  "poster": "/static/songs/11/poster.jpg",
+  "release_date": "2010-05-29",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5facd9f2e8416ef3e8e042dc"
+  },
+  "id": "12",
+  "name": "Brave",
+  "artist_id": "6",
+  "album": "The Blessed Unrest",
+  "language": "English",
+  "genere": "Pop",
+  "mood": "Motivational",
+  "lyrics": "You can be amazing\r\nYou can turn a phrase into a weapon or a drug\r\nYou can be the outcast\r\nOr be the backlash of somebody's lack of love\r\nOr you can start speaking up\r\nNothing's gonna hurt you the way that words do\r\nAnd they settle 'neath your skin\r\nKept on the inside and no sunlight\r\nSometimes a shadow wins\r\nBut I wonder what would happen if you\r\nSay what you wanna say\r\nAnd let the words fall out\r\nHonestly I wanna see you be brave\r\nWith what you want to say\r\nAnd let the words fall out\r\nHonestly I wanna see you be brave\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nI wanna see you be brave\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nI wanna see you be brave\r\nEverybody's been there, everybody's been stared down\r\nBy the enemy\r\nFallen for the fear and done some disappearing\r\nBow down to the mighty\r\nDon't run, stop holding your tongue\r\nMaybe there's a way out of the cage where you live\r\nMaybe one of these days you can let the light in\r\nShow me how big your brave is\r\nSay what you wanna say\r\nAnd let the words fall out\r\nHonestly I wanna see you be brave\r\nWith what you want to say\r\nAnd let the words fall out\r\nHonestly I wanna see you be brave\r\nInnocence, your history of silence\r\nWon't do you any good\r\nDid you think it would?\r\nLet your words be anything but empty\r\nWhy don't you tell them the truth?\r\nSay what you wanna say\r\nAnd let the words fall out\r\nHonestly I wanna see you be brave\r\nWith what you want to say\r\nAnd let the words fall out\r\nHonestly I wanna see you be brave\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nI wanna see you be brave\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nSee you be brave\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you\r\nI just wanna see you",
+  "video": "/static/songs/12/video.mp4",
+  "audio": "/static/songs/12/audio.mp3",
+  "poster": "/static/songs/12/poster.jpg",
+  "release_date": "2013-05-23",
+  "views": "0"
+},{
+  "_id": {
+    "$oid": "5fbf56336e08d7f3705def49"
+  },
+  "id": "13",
+  "name": "Bad Guy",
+  "artist_id": "7",
+  "album": "Live At Third Man Records",
+  "language": "English",
+  "genere": "Indie And Alternative",
+  "mood": "Focus",
+  "lyrics": "White shirt now red, my bloody nose\r\nSleepin', you're on your tippy toes\r\nCreepin' around like no one knows\r\nThink you're so criminal\r\nBruises on both my knees for you\r\nDon't say thank you or please\r\nI do what I want when I'm wanting to\r\nMy soul? So cynical\r\nSo you're a tough guy\r\nLike it really rough guy\r\nJust can't get enough guy\r\nChest always so puffed guy\r\nI'm that bad type\r\nMake your mama sad type\r\nMake your girlfriend mad tight\r\nMight seduce your dad type\r\nI'm the bad guy, duh\r\nI'm the bad guy\r\nI like it when you take control\r\nEven if you know that you don't\r\nOwn me, I'll let you play the role\r\nI'll be your animal\r\nMy mommy likes to sing along with me\r\nBut she won't sing this song\r\nIf she reads all the lyrics\r\nShe'll pity the men I know\r\nSo you're a tough guy\r\nLike it really rough guy\r\nJust can't get enough guy\r\nChest always so puffed guy\r\nI'm that bad type\r\nMake your mama sad type\r\nMake your girlfriend mad tight\r\nMight seduce your dad type\r\nI'm the bad guy, duh\r\nI'm the bad guy, duh\r\nI'm only good at being bad, bad\r\nI like when you get mad\r\nI guess I'm pretty glad that you're alone\r\nYou said she's scared of me?\r\nI mean, I don't see what she sees\r\nBut maybe it's 'cause I'm wearing your cologne\r\nI'm a bad guy\r\nI'm, I'm a bad guy\r\nBad guy, bad guy\r\nI'm a bad",
+  "video": "/static/songs/13/video.mp4",
+  "audio": "/static/songs/13/audio.mp3",
+  "poster": "/static/songs/13/poster.png",
+  "release_date": "2019-03-29",
+  "views": "0"
+}]

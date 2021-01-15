@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "5fa6b05ff5c06e3e4c1d769b"
+  },
+  "id": "1",
+  "name": "Eminem",
+  "image": "/static/artists/1.jpg"
+},{
+  "_id": {
+    "$oid": "5fa6b10bf5c06e3e4c1d769f"
+  },
+  "id": "2",
+  "name": "Ed Sheeran",
+  "image": "/static/artists/2.jpg"
+},{
+  "_id": {
+    "$oid": "5fa6b15ff5c06e3e4c1d76a1"
+  },
+  "id": "3",
+  "name": "Black Sabbath",
+  "image": "/static/artists/3.jpg"
+},{
+  "_id": {
+    "$oid": "5fa6b1c0f5c06e3e4c1d76a3"
+  },
+  "id": "4",
+  "name": "Adele",
+  "image": "/static/artists/4.jpg"
+},{
+  "_id": {
+    "$oid": "5fa75c71ebd7ed5ae1d59862"
+  },
+  "id": "5",
+  "name": "Bon Jovi",
+  "image": "/static/artists/5.jpg"
+},{
+  "_id": {
+    "$oid": "5facd86ce8416ef3e8e042da"
+  },
+  "id": "6",
+  "name": "Sara Bareilles",
+  "image": "/static/artists/6.jpg"
+},{
+  "_id": {
+    "$oid": "5fbf51df6e08d7f3705def46"
+  },
+  "id": "7",
+  "name": "Billie Eilish",
+  "image": "/static/artists/7.jpg"
+}]
